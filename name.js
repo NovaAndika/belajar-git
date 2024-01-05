@@ -1,7 +1,5 @@
-w = 9
-i=9
-if(w === i){
-    console.log(jelek)
-}else{
-    return "hello"
+function name(x, y){
+    return x + y
 }
+const tambah = name(20,39)
+console.log(tambah)
